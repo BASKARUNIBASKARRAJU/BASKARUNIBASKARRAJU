@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="68" viewBox="0 0 800 68" role="img" aria-labelledby="title desc">
+  <title id="title">Applied AI · RAG · Agent Workflows</title>
+  <desc id="desc">A slowly typed introduction to my interests in applied AI, retrieval-augmented generation, and agent workflows.</desc>
+  <defs><clipPath id="typing"><rect class="reveal" x="100" y="10" width="600" height="48"/></clipPath></defs>
+  <style>
+    .reveal {transform-origin:100px 0;animation:typing 11s steps(34,end) infinite}
+    .cursor {animation:position 11s steps(34,end) infinite}
+    .blink {animation:blink 1s steps(1,end) infinite}
+    @keyframes typing {0% {transform:scaleX(0)} 35%,80% {transform:scaleX(1)} 96%,100% {transform:scaleX(0)}}
+    @keyframes position {0% {transform:translateX(0)} 35%,80% {transform:translateX(600px)} 96%,100% {transform:translateX(0)}}
+    @keyframes blink {0%,49% {opacity:1} 50%,100% {opacity:0}}
+    @media (prefers-reduced-motion: reduce) {.reveal {animation:none;transform:none}.cursor {display:none}}
+  </style>
+  <g clip-path="url(#typing)">
+    <text x="100" y="43" textLength="600" lengthAdjust="spacing" fill="#0986b2" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="26" font-weight="700">Applied AI · RAG · Agent Workflows</text>
+  </g>
+  <g class="cursor"><rect class="blink" x="703" y="19" width="3" height="29" fill="#0986b2" transform="translate(-600 0)"/></g>
+</svg>

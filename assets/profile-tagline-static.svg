@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="68" viewBox="0 0 800 68" role="img" aria-labelledby="title desc">
+  <title id="title">Applied AI &#183; RAG &#183; Agent Workflows</title>
+  <desc id="desc">Applied AI, retrieval-augmented generation, and agent workflows.</desc>
+  <defs><clipPath id="typing"><rect class="reveal" x="100" y="10" width="600" height="48"/></clipPath></defs>
+  <g clip-path="url(#typing)">
+    <text x="100" y="43" textLength="600" lengthAdjust="spacing" fill="#0986b2" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="26" font-weight="700">Applied AI &#183; RAG &#183; Agent Workflows</text>
+  </g>
+  </svg>

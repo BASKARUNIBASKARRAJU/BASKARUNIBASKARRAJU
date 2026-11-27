@@ -3,7 +3,18 @@
   <img src="assets/profile-banner.svg" alt="Baskaruni Baskar Raju — Scholar at SAP, focused on applied AI and developer tools" width="100%">
 </picture>
 
-[LinkedIn](https://www.linkedin.com/in/baskar-raju-baskaruni-8a998124a/) · [Email](mailto:bhaskarbhaskaruni@gmail.com) · [Open-source work](https://github.com/OSS-Project-Agentreckon/StackWinnow)
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-tagline-static.svg">
+    <img src="assets/profile-tagline.svg" alt="Applied AI · RAG · Agent Workflows" width="760">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/baskar-raju-baskaruni-8a998124a/" title="Connect on LinkedIn"><img src="assets/contact-linkedin.svg" alt="LinkedIn profile" width="102" height="34"></a>
+  <a href="mailto:bhaskarbhaskaruni@gmail.com" title="Email bhaskarbhaskaruni@gmail.com"><img src="assets/contact-email.svg" alt="Email Baskar Raju" width="82" height="34"></a>
+  <a href="https://github.com/OSS-Project-Agentreckon/StackWinnow" title="Explore my open-source work"><img src="assets/contact-open-source.svg" alt="Open-source work on StackWinnow" width="124" height="34"></a>
+</p>
 
 ## About
 
