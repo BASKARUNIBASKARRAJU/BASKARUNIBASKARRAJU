@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="72" viewBox="0 0 540 72" role="img" aria-label="APPLICATION / WORKFLOW">
+  <defs><linearGradient id="g"><stop stop-color="#1e40af"/><stop offset="1" stop-color="#0284c7"/></linearGradient><clipPath id="c"><rect width="540" height="72" rx="8"/></clipPath></defs>
+  <g clip-path="url(#c)"><rect width="540" height="72" fill="url(#g)"/>
+  <circle cx="505" cy="7" r="69" fill="#ffffff" fill-opacity=".07"/><circle cx="490" cy="80" r="45" fill="none" stroke="#ffffff" stroke-opacity=".17"/>
+  <text x="23" y="43" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="1.5" fill="#ffffff">APPLICATION / WORKFLOW</text></g>
+</svg>

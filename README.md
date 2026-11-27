@@ -1,4 +1,7 @@
-<img src="assets/profile-banner.svg" alt="Baskaruni Baskar Raju — Scholar at SAP, focused on applied AI and developer tools" width="100%">
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/profile-banner-static.svg">
+  <img src="assets/profile-banner.svg" alt="Baskaruni Baskar Raju — Scholar at SAP, focused on applied AI and developer tools" width="100%">
+</picture>
 
 [LinkedIn](https://www.linkedin.com/in/baskar-raju-baskaruni-8a998124a/) · [Email](mailto:bhaskarbhaskaruni@gmail.com) · [Open-source work](https://github.com/OSS-Project-Agentreckon/StackWinnow)
 
@@ -8,29 +11,68 @@ I'm **Baskaruni Baskar Raju**, a **Scholar@SAP** based in Bangalore, India. I bu
 
 My work spans retrieval-augmented generation (RAG), natural-language-to-SQL, AI agents, and Model Context Protocol (MCP) integrations. I have also worked with SAP BTP, JDBC, and CI/CD automation. I am particularly interested in making AI systems easier to use, evaluate, and maintain.
 
-## Selected projects
+## 🚀 Featured projects
 
-### [StackWinnow](https://github.com/OSS-Project-Agentreckon/StackWinnow)
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/OSS-Project-Agentreckon/StackWinnow"><img src="assets/project-stackwinnow.svg" alt="StackWinnow — open-source AI tooling" width="100%"></a>
+<h3>🔍 StackWinnow</h3>
+<p><strong>Python · FastAPI · React</strong></p>
+<ul>
+<li>🔍 Inspect supported project source files</li>
+<li>🎯 Explain relevant AI tool recommendations</li>
+<li>⚙️ Manage setup and verification for supported tools</li>
+<li>🤝 Develop through public contributions and peer review</li>
+</ul>
+<p>My work includes discovery, recommendations, Graphify integration, and the workbench.</p>
+<p><a href="https://github.com/OSS-Project-Agentreckon/StackWinnow"><img src="assets/badge-repository-teal.svg" alt="View StackWinnow repository" height="25"></a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/BASKARUNIBASKARRAJU/image-to-ad"><img src="assets/project-image-to-ad.svg" alt="Image-to-Ad — AI-assisted advertising prototype" width="100%"></a>
+<h3>🎨 Image-to-Ad</h3>
+<p><strong>React · Express · OpenAI API</strong></p>
+<ul>
+<li>🖼️ Create advertising previews from images</li>
+<li>🧠 Optionally analyze images and generate copy with AI</li>
+<li>🎨 Choose from five visual templates</li>
+<li>🔄 Compare multiple advertising variations</li>
+</ul>
+<p>Full-stack prototype with AI-assisted and template-only modes.</p>
+<p><a href="https://github.com/BASKARUNIBASKARRAJU/image-to-ad"><img src="assets/badge-repository-violet.svg" alt="View Image-to-Ad repository" height="25"></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/BASKARUNIBASKARRAJU/Reimbursement-System"><img src="assets/project-reimbursement.svg" alt="Reimbursement System — application development" width="100%"></a>
+<h3>🧾 Reimbursement System</h3>
+<p><strong>Java · Spring Boot · React · MySQL</strong></p>
+<ul>
+<li>🧾 Submit expenses and attach receipts</li>
+<li>✅ Review submissions through manager workflows</li>
+<li>📋 Record finance closure and review comments</li>
+<li>👥 Manage users and their assigned roles</li>
+</ul>
+<p>Backend and UI source; frontend build files still need restoration.</p>
+<p><a href="https://github.com/BASKARUNIBASKARRAJU/Reimbursement-System"><img src="assets/badge-repository-blue.svg" alt="View Reimbursement System repository" height="25"></a></p>
+</td>
+<td width="50%" valign="top">
+<a href="#experience-and-exploration"><img src="assets/project-ai-exploration.svg" alt="Applied AI exploration — prototypes and workshops" width="100%"></a>
+<h3>🧠 Applied AI Exploration</h3>
+<p><strong>Python · RAG · Agents · FastAPI</strong></p>
+<ul>
+<li>💬 Generate SQL using schema and example retrieval</li>
+<li>📚 Answer document questions using retrieved context</li>
+<li>🛠️ Explore human approval and recovery in agent workflows</li>
+<li>🔗 Connect assistants to tools through MCP</li>
+</ul>
+<p>A collection of project, coursework, and workshop explorations.</p>
+<p><a href="#experience-and-exploration"><img src="assets/badge-exploration.svg" alt="Read about AI prototypes and workshops" height="25"></a></p>
+</td>
+</tr>
+</table>
 
-An open-source project that inspects a codebase, explains relevant AI tool recommendations, and provides managed setup and verification for supported tools.
-
-I contributed project inspection, explainable recommendations, bounded source discovery, Graphify integration, and the discovery workbench. My work also includes lifecycle improvements, portable profiles, documentation, and peer review.
-
-**Python · FastAPI · React · CLI tooling · GitHub Actions**
-
-[Source discovery](https://github.com/OSS-Project-Agentreckon/StackWinnow/pull/47) · [Discovery workbench](https://github.com/OSS-Project-Agentreckon/StackWinnow/pull/49) · [My merged contributions](https://github.com/OSS-Project-Agentreckon/StackWinnow/pulls?q=is%3Apr+is%3Amerged+author%3ABASKARUNIBASKARRAJU)
-
-### [Image-to-Ad](https://github.com/BASKARUNIBASKARRAJU/image-to-ad)
-
-A full-stack prototype for turning uploaded images into advertising previews. It combines five visual templates with optional OpenAI image analysis and copy generation, plus a template-only mode.
-
-**React · Node.js · Express · OpenAI API · Tailwind CSS**
-
-### [Reimbursement System](https://github.com/BASKARUNIBASKARRAJU/Reimbursement-System)
-
-An application project covering employee expense submissions, manager review, finance closure, receipt attachments, and administration. The repository contains a Spring Boot backend and React UI source; its README describes the current setup requirements and remaining frontend packaging work.
-
-**Java · Spring Boot · React · MySQL**
+**StackWinnow contribution examples:** [Source discovery](https://github.com/OSS-Project-Agentreckon/StackWinnow/pull/47) · [Discovery workbench](https://github.com/OSS-Project-Agentreckon/StackWinnow/pull/49) · [My merged contributions](https://github.com/OSS-Project-Agentreckon/StackWinnow/pulls?q=is%3Apr+is%3Amerged+author%3ABASKARUNIBASKARRAJU)
 
 ## Experience and exploration
 
